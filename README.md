@@ -1,5 +1,5 @@
 # Web-app-obrada-datoteka
-Web application for file processing
+Spring Boot java web application for file processing
 
 ## How to run
 After running the application from IDE, open http://localhost:8080
